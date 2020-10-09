@@ -1,0 +1,14 @@
+Gathering Petroleum Project data
+Data collection, Analysis, Cleansing, Normalisation, Visulazion
+Data Analysis
+Data Cleansing
+Data Normalisation
+Uploading data into systems
+ 
+ETL process and Data Cleansing
+
+Database design and normalization
+Working with different data sources (Excel, CSV, JSON)
+Database design
+
+Understanding Databases Relational & Unstructured data
